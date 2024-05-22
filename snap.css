@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 730px;
+    background-color: #FFFC00;
+
+   
+}
+.topbox{
+    width: 100%;
+    height: 70px;
+    background-color:  #FFFC00;
+    display: flex;
+}
+#srch{
+    width: 180px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+#ps{
+    width: 50px;
+    height: 60px;
+  
+    margin-left: 360px;
+    margin-top: 10px;
+    
+}
+.play{
+    width: 50px;
+    height: 60px;
+   
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.menu{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(245, 248, 246);
+    margin-top: 15px;
+    margin-left: 320px;
+    border-radius: 100px;
+}
+#srch1{
+    width: 130px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+#srch2{
+    width:100px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mid{
+    width: 85%;
+    height: 600px;
+    background-color: palevioletred;
+    margin-left:116px;
+    display: flex;
+}
+.mid1{
+    width: 37%;
+    height:600px ;
+    background-color: #FFFC00;
+}
+#text{
+    font-size: 60px;
+    /* font-weight: bolder; */
+    font-family: 'Noto Sans', sans-serif;
+
+    margin-left: 30px;
+    margin-top: 100px;
+}
+#text1{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left:30px ;
+    margin-top: 30px;
+}
+#lap{
+        width: 210px;
+        height: 37px;
+        background-color: black;
+        border-radius: 20px;
+        margin-left: 30px;
+        margin-top: 30px;
+        display: flex;
+    }
+    #boxes{
+        width: 400px;
+        display: flex;
+    }
+    #micro{
+        width: 30px;
+        height: 20px;
+        background-color:#FFFC00;
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    #mi{
+        width: 140px;
+        height: 30px;
+        background-color: black;
+        margin-top: 35px;
+        border-radius: 10px;
+    }
+
+
+
+.mid2{
+    width: 73%;
+    height:600px ;
+    background-color: #FFFC00;
+    display: flex;
+    box-sizing: border-box;
+}
+
+#mainimg{
+width: 670px;
+margin-left: 30px;
+
+
+
+}
+#mainimg1{
+    width: 100%;
+        height:600px ;
+   
+
+}
+
+
+
+.last{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+#cross{
+    margin-left: 500px;
+    margin-top: 15px;
+}
